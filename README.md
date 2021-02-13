@@ -1,5 +1,5 @@
 # docker-course - Spring boot docker example
-Generates a spring war and deploys it into a docker container with a postgresql database
+Generates a spring war and deploys it into a tomcat server with a postgresql database
 
 # Stratup
 Run the following commands:\
