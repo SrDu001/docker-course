@@ -1,7 +1,7 @@
-# docker-course
+# docker-course - Spring boot docker example
 Generates a spring war and deploys it into a docker container with a postgresql database
 
-Setting up:\
+# Setting up:\
 Run the following commands:\
 docker build -t test-spring .\
 docker-compose up -d\
